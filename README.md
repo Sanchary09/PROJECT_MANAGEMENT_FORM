@@ -28,5 +28,23 @@ As of now, this educational project is not released on GitHub. However, it can b
 - **Software Development:** Projects can involve the creation of software applications, from mobile apps to web platforms.
 - **Research Projects:** Conducting research studies in various fields, from science to social sciences.
 
+**Simulation**-
+<img width="960" alt="image" src="https://github.com/Sanchary09/PROJECT_MANAGEMENT_FORM/assets/123536172/6c353e02-b6d4-4b07-a427-ff4c9672d242">
+The form page.
+
+<img width="960" alt="image" src="https://github.com/Sanchary09/PROJECT_MANAGEMENT_FORM/assets/123536172/fb9b376a-64ba-437e-8f8b-f8888152342f">
+The data is saved in database and the details are displayed.
+
+<img width="960" alt="image" src="https://github.com/Sanchary09/PROJECT_MANAGEMENT_FORM/assets/123536172/1a0d582c-b886-4cbf-aa51-18f811a25322">
+This is the confirmation that the data has been recorded.
+
+<img width="960" alt="image" src="https://github.com/Sanchary09/PROJECT_MANAGEMENT_FORM/assets/123536172/6e357fab-ab7b-4602-8731-4be8cf464749">
+The data is stored in the database.
+
+Further if any data is to be updated or if the page needs to be reset then the buttons are provided can be used accordingly.
+
+
+
+
 
 
